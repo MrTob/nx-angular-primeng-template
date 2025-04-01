@@ -7,6 +7,7 @@ import { ButtonModule } from 'primeng/button';
   imports: [CommonModule, ButtonModule],
   template: `
   <div>
+    <h1>Welcome angular-nx-primeng</h1>
     <p-button label="Check" />
   </div>
   `,
