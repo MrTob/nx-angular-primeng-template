@@ -17,6 +17,9 @@
     "paths": {
       "@angular-nx-primeng/design-system": [
         "libs/shared/design-system/src/index.ts"
+      ],
+      "@angular-nx-primeng/ui-components": [
+        "libs/shared/ui-components/src/index.ts"
       ]
     }
   },
